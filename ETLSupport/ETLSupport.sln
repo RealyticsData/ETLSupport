@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ETLSupport", "DB\ETLSupport\ETLSupport.sqlproj", "{29F97137-5B2B-4397-9E3A-58585A6094FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F97137-5B2B-4397-9E3A-58585A6094FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F97137-5B2B-4397-9E3A-58585A6094FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F97137-5B2B-4397-9E3A-58585A6094FC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{29F97137-5B2B-4397-9E3A-58585A6094FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F97137-5B2B-4397-9E3A-58585A6094FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F97137-5B2B-4397-9E3A-58585A6094FC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {884EE46F-CDA9-4EBA-84B4-7B683F4D22A8}
+	EndGlobalSection
+EndGlobal
